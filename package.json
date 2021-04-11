@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/daimessdn/testing-vercel-api-nodejs/issues"
   },
-  "homepage": "https://github.com/daimessdn/testing-vercel-api-nodejs#readme"
+  "homepage": "https://github.com/daimessdn/testing-vercel-api-nodejs#readme",
+  "devDependencies": {
+    "@vercel/node": "^1.9.1"
+  },
+  "dependencies": {
+    "vercel": "^21.3.3"
+  }
 }
